@@ -23,7 +23,7 @@
   - 🌱 I’m currently learning **HTML, CCS and JavaScript**
   - 💬 Ask me about **RPGLE, Java, Python and Data analysis**
   - ⚡ Fun fact: I never thought I would become a AS400 developer!
-  - 📫 How to reach me **miltonpacheco29@gmail.com**
+  - 📫 How to reach me **miltonpacheco2912@gmail.com**
 </p>
 
 <p align="left">
@@ -43,7 +43,7 @@
     <img src="https://marketplace.radiantlogic.com/wp-content/uploads/bw_store_facet_images/bw_as400_bw_as400-900x0.png" width="5%"> [![Languages](https://skillicons.dev/icons?i=py,java,arduino,matlab&theme=light)](https://skillicons.dev)
 
   - ### Softwares and Frameworks
-    [![Tools](https://skillicons.dev/icons?i=astro,aws,docker,gradle,graphql,mongodb,mysql,postgres,postman,spring,&theme=light)](https://skillicons.dev)
+    [![Tools](https://skillicons.dev/icons?i=aws,docker,gradle,graphql,mongodb,mysql,postgres,postman,spring,&theme=light)](https://skillicons.dev)
 
   - ### Ide's and Tools
     [![Ides](https://skillicons.dev/icons?i=git,github,gitlab,idea,ai,ps,visualstudio,vscode&theme=light)](https://skillicons.dev)

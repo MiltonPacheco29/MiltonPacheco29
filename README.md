@@ -40,7 +40,7 @@
   ### <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b> 
 
   - ### Languages
-    <img src="https://marketplace.radiantlogic.com/wp-content/uploads/bw_store_facet_images/bw_as400_bw_as400-900x0.png" width="5.5%"> [![Languages](https://skillicons.dev/icons?i=java,py,js,elixir&theme=light)](https://skillicons.dev)
+    <img src="https://marketplace.radiantlogic.com/wp-content/uploads/bw_store_facet_images/bw_as400_bw_as400-900x0.png" width="5.4%"> [![Languages](https://skillicons.dev/icons?i=java,py,js,elixir&theme=light)](https://skillicons.dev)
 
   - ### Technologies
     [![Tools](https://skillicons.dev/icons?i=aws,azure,css,django,docker,dynamodb,grafana,hibernate,html,kubernetes,mongodb,mysql,nextjs,postgres,react,spring&theme=light)](https://skillicons.dev)
